@@ -15,6 +15,18 @@ _The scale of my impact can be viewed as someone who performs lifecycle manageme
 
 _I particularly specialize in automating environment provisioning, Improving observability, visibility and microservice performance. I work extensively with python programming language below is the list of projects that I have worked on._
 
+- _K8s namespace and secret injector utility_
+- _RDS schemas migration utility_
+- _Route53 record set CRUD utility_
+- _SG Rule management utility_
+- _EC2 operations state monitoring and state restoration utility_
+- _SES Quota Usage MAP utility_
+- _Mongo schema and user migration utility_
+- _Couchbase bucket creation utility_
+- _K8s roles/service-account management utility_
+- _K8s config-maps management utility_
+- _okta apps/configuration management utility_
+
 _Python has been my primary language of coding. My projects have involved leveraging clients like git, okta, sparkpost, MailChimp, opsgenie, boto3, mySQL, postgreSQL and also involved working with OS, system, files and subprocess module for Python 3._
 
 _I have supported both of my startups in achieving regulatory compliance certifications like HIPAA, SOC and SOC2. I am continuously improving my current knowledge of Python while developing my foundations to work with golang._
