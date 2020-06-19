@@ -26,6 +26,7 @@ _I particularly specialize in automating environment provisioning, Improving obs
 - _K8s roles/service-account management utility_
 - _K8s config-maps management utility_
 - _okta apps/configuration management utility_
+- _S3 bucket lifecycle management utility_
 
 _Python has been my primary language of coding. My projects have involved leveraging clients like git, okta, sparkpost, MailChimp, opsgenie, boto3, mySQL, postgreSQL and also involved working with OS, system, files and subprocess module for Python 3._
 
