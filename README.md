@@ -15,17 +15,17 @@ _The scale of my impact can be viewed as someone who performs lifecycle manageme
 
 _I particularly specialize in automating environment provisioning, Improving observability, visibility and microservice performance. I work extensively with python programming language below is the list of projects that I have worked on._
 
-● _Kubernetes namespace and secret injector utility_
-● _RDS schemas migration utility_
-● _Route53 record set CRUD utility_
-● _SG Rule management utility_
-● _EC2 operations state monitoring and state restoration utility_
-● _SES Quota Usage MAP utility_
-● _Mongo schema and user migration utility_
-● _Couchbase bucket creation utility_
-● _Kubernetes roles/service-account/configs management utility_
-● _Okta apps/configuration management utility_
-● _S3 bucket lifecycle management utility_
+- _Kubernetes namespace and secret injector utility_
+- _RDS schemas migration utility_
+- _Route53 record set CRUD utility_
+- _SG Rule management utility_
+- _EC2 operations state monitoring and state restoration utility_
+- _SES Quota Usage MAP utility_
+- _Mongo schema and user migration utility_
+- _Couchbase bucket creation utility_
+- _Kubernetes roles/service-account/configs management utility_
+- _Okta apps/configuration management utility_
+- _S3 bucket lifecycle management utility_
 
 _Python has been my primary language of coding. My projects have involved leveraging clients like git, okta, sparkpost, MailChimp, opsgenie, boto3, mySQL, postgreSQL and also involved working with OS, system, files and subprocess modules for Python 3._
 
