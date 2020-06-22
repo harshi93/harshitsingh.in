@@ -28,6 +28,10 @@ _I particularly specialize in automating environment provisioning, Improving obs
 - _okta apps/configuration management utility_
 - _S3 bucket lifecycle management utility_
 
-_Python has been my primary language of coding. My projects have involved leveraging clients like git, okta, sparkpost, MailChimp, opsgenie, boto3, mySQL, postgreSQL and also involved working with OS, system, files and subprocess module for Python 3._
+_Python has been my primary language of coding. My projects have involved leveraging clients like git, okta, sparkpost, MailChimp, opsgenie, boto3, mySQL, postgreSQL and also involved working with OS, system, files and subprocess modules for Python 3._
 
 _I have supported both of my startups in achieving regulatory compliance certifications like HIPAA, SOC and SOC2. I am continuously improving my current knowledge of Python while developing my foundations to work with golang._
+
+_I started my professional journey with implementing infrastructures limited to availability of a single datacenter, only to realize the operational importance of operating application stack from multiple data centers distributed across the nation._
+
+_While my professional growth has given me experience to be a strong proponent of multi-availability-zone based infrastructure. I am seeking opportunities to grow my professional career to be able to design and implement infrastructure that supports multi-region availability, improved business continuity._
